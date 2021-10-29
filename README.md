@@ -4,7 +4,7 @@ My name is Daniel Kastl.
 
 - 🏆 [Github Profile Trophy](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dkastl)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dkastl&rank=S,AAA)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **dkastl/dkastl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
